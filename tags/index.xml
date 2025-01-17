@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Fiwalld</title>
-    <link>https://fiwalld.com/tags/</link>
+    <link>https://www.fiwalld.com/tags/</link>
     <description>Recent content in Tags on Fiwalld</description>
     <generator>Hugo</generator>
     <language>en</language>
     <managingEditor>fiwalldbean@gmail.com (Fiwalld Bean)</managingEditor>
     <webMaster>fiwalldbean@gmail.com (Fiwalld Bean)</webMaster>
-    <atom:link href="https://fiwalld.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.fiwalld.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
