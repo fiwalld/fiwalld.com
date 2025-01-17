@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Fiwalld</title>
+    <link>https://fiwalld.com/page/</link>
+    <description>Recent content in Pages on Fiwalld</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>fiwalldbean@gmail.com (Fiwalld Bean)</managingEditor>
+    <webMaster>fiwalldbean@gmail.com (Fiwalld Bean)</webMaster>
+    <atom:link href="https://fiwalld.com/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://fiwalld.com/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>fiwalldbean@gmail.com (Fiwalld Bean)</author>
+      <guid>https://fiwalld.com/page/about/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h1 id=&#34;welcome-to-fiwalld&#34;&gt;Welcome to Fiwalld&lt;/h1&gt;&#xA;&lt;p&gt;The Fiwalld is a free full-featured firewall on Android, keeps you away from malicious apps.&lt;/p&gt;&#xA;&lt;h1 id=&#34;key-features&#34;&gt;Key features:&lt;/h1&gt;&#xA;&lt;p&gt;!!! Important: If you get &amp;ldquo;Trojan report&amp;rdquo; about Fiwalld by Antivirus scanners, it&amp;rsquo;s a “false positive” report and please check the detailed statement at the end of the description.&lt;/p&gt;&#xA;&lt;p&gt;Key features:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Real-time monitor which apps are accessing which servers or active sessions.&lt;/li&gt;&#xA;&lt;li&gt;Default blocker strictly blocks advertisements, malwares, spams, spyware &amp;amp; trackers, coinminer and prevents your system from connecting to them.&lt;/li&gt;&#xA;&lt;li&gt;Easy use interface helps you to add your professional firewall rules just with few clicks.&lt;/li&gt;&#xA;&lt;li&gt;Add or batch provision customed firewall rules for advanced users.&lt;/li&gt;&#xA;&lt;li&gt;Multi-dimensional statistical analysis allows you to quickly identify suspicious applications.&lt;/li&gt;&#xA;&lt;li&gt;Predefined non logging DoH/DNSCrypt Servers provide further protection of your privacy.&lt;/li&gt;&#xA;&lt;li&gt;Support add custom DoH/DNScrypt or UDP DNS servers.&lt;/li&gt;&#xA;&lt;li&gt;Support batch provision whitelist rules.&lt;/li&gt;&#xA;&lt;li&gt;Support checking IP location detail info via external Map app by clicking the country flag.&lt;/li&gt;&#xA;&lt;li&gt;Support Default Block All Mode.&lt;/li&gt;&#xA;&lt;li&gt;Support IPv6 and IP stack mode selection.&lt;/li&gt;&#xA;&lt;li&gt;Support &amp;ldquo;allow rules&amp;rdquo; under &amp;ldquo;default block mode&amp;rdquo;.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;If you receive a system prompt that Fiwalld is draining battery, don&amp;rsquo;t panic. Fiwalld does the connecting work, while other applications save this part of the battery, so the overall battery consumption remains the same.&#xA;Please know you can&amp;rsquo;t run Fiwalld and other VPN client at the same time, this is the Android System limitation.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
